@@ -83,7 +83,7 @@ export const portfolio = {
     {
       "id": "chat",
       "title": "AI-Moderated Real-Time Chat",
-      "kicker": "REAL-TIME / SYSTEM SKETCH",
+      "kicker": "REAL-TIME",
       "description": "An event-driven full-stack application combining live messaging, REST APIs, access control, and AI-assisted moderation.",
       "tags": [
         "C# / ASP.NET Core",
@@ -104,7 +104,7 @@ export const portfolio = {
     {
       "id": "resume",
       "title": "Resume Analyser",
-      "kicker": "AI TOOLS / CONCEPT SKETCH",
+      "kicker": "AI TOOLS ",
       "description": "An AI Chrome extension that compares resumes with job descriptions and ranks skill-gap recommendations.",
       "tags": [
         "JavaScript",
@@ -124,7 +124,7 @@ export const portfolio = {
     {
       "id": "pose",
       "title": "Exercise Monitoring & Pose Estimation",
-      "kicker": "COMPUTER VISION / POSE SKETCH",
+      "kicker": "COMPUTER VISION ",
       "description": "A real-time Android computer vision application, developed as my MEng capstone project and thesis.",
       "tags": [
         "Kotlin / Python",
@@ -144,7 +144,7 @@ export const portfolio = {
     {
       "id": "cloud",
       "title": "VibeMap",
-      "kicker": "CLOUD / DEPLOYMENT SKETCH",
+      "kicker": "CLOUD ",
       "description": "A real-time anonymous platform for discovering and sharing location-based posts with live updates.",
       "tags": [
         "Next.js / TypeScript",
@@ -164,7 +164,7 @@ export const portfolio = {
     {
       "id": "email",
       "title": "AI Email Automation Workflow",
-      "kicker": "AI / AUTOMATION SKETCH",
+      "kicker": "AI ",
       "description": "A Gmail workflow for drafting, reviewing, and approving replies, with a person involved in the final decision.",
       "tags": [
         "n8n",
