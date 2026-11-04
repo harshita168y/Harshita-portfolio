@@ -183,9 +183,15 @@ export const portfolio = {
     }
   ],
   "about": [
-    "I work across backend services, frontend interfaces, databases, and cloud infrastructure. My professional foundation is enterprise development and modernisation, with C# and .NET as a core strength.",
-    "Academic work and personal projects have taken that further into real-time applications, cloud architecture, computer vision, NLP, and LLM-powered tools.",
-    "I care about maintainable architecture, automated testing, measurable performance, and adapting software to real business requirements. My current direction spans full-stack, backend, frontend, and cloud software engineering."
+    "A few small projects during lockdown changed the direction of my career.",
+    "I was studying Electronics and Communication Engineering when our coursework introduced more opportunities to build with software. I enjoyed figuring things out and seeing something I’d built come to life. Soon, I was learning beyond what the coursework required, simply because I wanted to understand more.",
+    "That interest led me to Cognizant’s Digital Nurture programme in 2021. Six months of training in Java and full stack development became an internship, then a full time software engineering role. Working on enterprise applications taught me what it takes to maintain systems people depend on: improving performance, modernising older applications and solving problems in production. Alongside work, I kept making time to learn independently.",
+
+    "My interest in AI gave me another set of questions to explore. I wanted to understand how models learn and how I could build applications with them. That brought me to the University of Limerick for an MEng in Computer Vision and Artificial Intelligence, where I studied machine learning, deep learning and computer vision.",
+
+    "What excites me now is putting those experiences together. I can draw on my software engineering background, my understanding of AI and the curiosity that got me started. I want to keep building applications that people can rely on and feel that something I’ve made has helped make their day easier.",
+
+    "My projects now bring those experiences together through full stack applications, cloud systems and AI integrations. I’m looking to continue growing as a software engineer, using AI thoughtfully to solve practical problems and build software that makes everyday tasks easier."
   ],
   "roles": [
     {

@@ -37,6 +37,7 @@ export function SiteHeader() {
       <nav id="main-navigation" className={`hr-nav${menuOpen ? " is-open" : ""}`} aria-label="Main navigation">
         <a href="#impact" onClick={() => setMenuOpen(false)}>Impact</a>
         <a href="#work" onClick={() => setMenuOpen(false)}>Projects</a>
+        <a href="#about" onClick={() => setMenuOpen(false)}>About Me</a>
         <a href="#experience" onClick={() => setMenuOpen(false)}>Experience</a>
         <a href="#skills" onClick={() => setMenuOpen(false)}>Skills</a>
         <a href="#education" onClick={() => setMenuOpen(false)}>Education</a>

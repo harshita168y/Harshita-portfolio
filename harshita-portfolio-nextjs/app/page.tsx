@@ -30,7 +30,7 @@ export default function HomePage() {
           </section>
 
           <section className="hr-section hr-about" id="about" tabIndex={-1} aria-labelledby="about-title">
-            <div><div className="hr-section-label">ENGINEERING APPROACH</div><h2 id="about-title">A software engineer.<br />A curious <em>builder.</em></h2><div className="hr-about-note">Clean code. Practical problem solving.</div><div className="hr-profile-facts"><span>{profile.professionalYears} years of professional experience</span><span>{profile.handsOnYears} years including hands on project work</span></div></div>
+            <div><div className="hr-section-label">ABOUT ME</div><h2 id="about-title">A software engineer.<br />A curious <em>builder.</em></h2><div className="hr-about-note">Clean code. Practical problem solving.</div><div className="hr-profile-facts"><span>{profile.professionalYears} years of professional experience</span><span>{profile.handsOnYears} years including hands on project work</span></div></div>
             <div>{portfolio.about.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}</div>
           </section>
 
