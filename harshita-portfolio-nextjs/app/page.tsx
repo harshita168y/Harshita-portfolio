@@ -114,7 +114,7 @@ export default function HomePage() {
 
                   <a
                     className="hr-project-link"
-                    href="https://github.com/harshita168y/AirStudio"
+                    href="https://airstudio-psi.vercel.app/"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="Air Studio on GitHub"
@@ -128,7 +128,7 @@ export default function HomePage() {
                       background: "#fff",
                     }}
                   >
-                    GitHub ↗
+                    Live Application ↗
                   </a>
                 </div>
 
