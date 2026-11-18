@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import localFont from "next/font/local";
 import type { ReactNode } from "react";
+import { Analytics } from "@vercel/analytics/next";
 import { portfolio } from "../content/portfolio";
 import "./globals.css";
 
@@ -47,6 +48,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
       <body className={`${dmSans.variable} ${instrumentSerif.variable}`}>
         <a className="skip-link" href="#main-content">Skip to content</a>
         {children}
+        <Analytics />
       </body>
     </html>
   );
